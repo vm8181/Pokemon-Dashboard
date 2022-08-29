@@ -17,6 +17,22 @@ This dashboard is totaly interactive. I have created 4 pages in this dashboard w
 
 **Tools & Technology used:**
 -Power BI
+
 -Microsoft Excel
+
 -Microsoft Powerpoint
+
 -Adobe Photoshop
+
+**Features used:**
+_Custom visuals:_ chiclet slicer, simple image
+
+_Page navigation_: Overview page, Dream Team, Pokedex
+
+_Slicers:_ To make it interactive
+
+_Images_ 
+
+_Data modelling_
+
+_Transforming and shaping the dataset_
