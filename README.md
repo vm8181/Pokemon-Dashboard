@@ -1,5 +1,5 @@
 # Pokemon-Dashboard
-**About:**
+## About:
 
 This dashboard is totaly interactive. I have created 4 pages in this dashboard which shows the different views and informations. You can go on different pages by clicking the buttons given on main page. 
 
