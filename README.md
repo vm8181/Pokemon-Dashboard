@@ -16,6 +16,7 @@ This dashboard is totaly interactive. I have created 4 pages in this dashboard w
 ![Pokedex](https://user-images.githubusercontent.com/92555446/187201932-bf0b9cfd-6b5f-44d6-8d46-56ca396872d0.png)
 
 **Tools & Technology used:**
+
 -Power BI
 
 -Microsoft Excel
@@ -25,6 +26,7 @@ This dashboard is totaly interactive. I have created 4 pages in this dashboard w
 -Adobe Photoshop
 
 **Features used:**
+
 _Custom visuals:_ chiclet slicer, simple image
 
 _Page navigation_: Overview page, Dream Team, Pokedex
